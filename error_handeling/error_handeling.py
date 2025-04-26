@@ -1,13 +1,12 @@
-# file = open("youtube.txt","w")
+# file = open("text.txt", "w") #note : here "w" i.e write create a new file
 
 # try:
-#     file.write("I am Sanjay")
-
+#     file.write("Hello World")
 # finally:
 #     file.close()
 
 
-# or,
+# or note : here "w" i.e write create a new file
 
-# with open("youtube.txt","w") as file:
-#     file.write("I am coded ")
+with open("text.txt", "w") as file:
+    file.write("Hello World")
