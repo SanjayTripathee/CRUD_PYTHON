@@ -1,0 +1,5 @@
+different between keyword and method
+  If you see something like object.something(), it's a method.
+  If it's a standalone word used to control flow or behavior (without a dot .), it's probably a keyword.
+  eg: mylist.pop()  # 'pop' is a method of list object
+      del videos[index-1] # here del is keyword because stand alone
