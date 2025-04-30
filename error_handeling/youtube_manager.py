@@ -51,10 +51,10 @@ def main():# # We define this main function so we can specify that the applicati
     videos = load_data()
     while True:
         print("\n Youtube Manager | Choose an option")
-        print("1. List all Youtube videos")
-        print("2. Add a new video")
-        print("3. Update a youtube video")
-        print("4. Delete a youtube video")
+        print("1. List all Youtube videos")# like read
+        print("2. Add a new video")# create
+        print("3. Update a youtube video")# update
+        print("4. Delete a youtube video")# delete
         print("5. Exit the app")
 
         choice = input("Enter your choice: ")
