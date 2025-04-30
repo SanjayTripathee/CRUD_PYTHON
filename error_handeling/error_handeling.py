@@ -1,3 +1,6 @@
+#  This file is not use in project only i try to see how to use exception handeling using try,catch and with inpython
+
+
 # file = open("text.txt", "w") #note : here "w" i.e write create a new file
 
 # try:
